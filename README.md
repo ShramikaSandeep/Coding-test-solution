@@ -1,4 +1,4 @@
-# Coding--test-solution
+# Coding-test-solution
 Coding challenge solution.
 
 ### Setup
